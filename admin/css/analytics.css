@@ -1,0 +1,25 @@
+.country-stats {
+    background-color: #eee;
+    display: inline-block;
+    padding:6px;
+    margin: 4px;
+    text-align: center;
+}
+.country-name {
+    font-size: 18px;
+    font-weight: bold;
+    padding:12px 2px;
+}
+.country-numbers {
+    margin-top:12px;
+    padding-right: 6px;
+}
+.country-numbers i {
+    padding: 2px 2px 4px 8px;
+}
+.icon-views {
+    color: #4971cb;
+}
+.icon-head {
+    color: #c42a2a;
+}
