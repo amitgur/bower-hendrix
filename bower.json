@@ -10,7 +10,8 @@
     "jquery": "latest",
     "ng-table": "~0.3.1",
     "angular-ui-utils": "~0.1.1",
-    "angular-sanitize": "~1.2.16"
+    "angular-sanitize": "~1.2.16",
+    "chartjs": "~0.2.0"
   },
   "authors": [
     "amit gur <amit@menagenet.co.il>"
